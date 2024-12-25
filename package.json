@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sentry:release": "./node_modules/.bin/sentry-cli releases new $VERSION"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
