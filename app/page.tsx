@@ -95,7 +95,7 @@ const Home = () => {
 
           <div className="text-14-regular mt-20 flex justify-between">
             <p className="justify-items-end text-dark-600 xl:text-left">
-              © 2024 CarePluse
+              © 2024 E-HealthCarePulse
             </p>
             {/* Admin Button to open modal */}
             <button
